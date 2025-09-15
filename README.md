@@ -8,23 +8,6 @@ This project is a Power BI dashboard that shows important insights about Emergen
 - Identify busy hours and peak days.
 - Easy-to-use design for quick insights.
 
-Perfect 👍 Here’s how you can add a **Table of Contents with clickable links** to your README. I’ve linked it to the three dashboard views you have:
-
----
-
-## Table of Contents
-
-* [Features](#-features)
-* [Visuals Explained](#-visuals-explained)
-
-  * [Monthly View](#-monthly-view-example-feb-2024)
-  * [Consolidated View](#-consolidated-view-apr-2023--oct-2024)
-  * [Patient Details View](#-patient-details-view)
- 
-  Perfect ✅ Let’s merge all three views into a single, clean, and professional **“Visuals Explained”** section for your GitHub README.
-
----
-
 ## Visuals Explained
 
 This dashboard has three views: **Monthly View**, **Consolidated View**, and **Patient Details View**. Each view provides different levels of insights into ER performance and patient data.
