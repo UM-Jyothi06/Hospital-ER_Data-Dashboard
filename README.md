@@ -15,7 +15,7 @@ This dashboard has three views: **Monthly View**, **Consolidated View**, and **P
 ### Monthly View (Example: Feb 2024)
 
 A snapshot of ER performance for a single month.
-**Dashboard-1 (Montly View)** - <img width="825" height="503" alt="Dashboard-1 (Monthly View)" src="https://github.com/user-attachments/assets/980df844-f4c4-4691-aa7f-53b3031d5b7c" />
+* **Dashboard-1 (Montly View)** - <img width="825" height="503" alt="Dashboard-1 (Monthly View)" src="https://github.com/user-attachments/assets/980df844-f4c4-4691-aa7f-53b3031d5b7c" />
 
 
 1. **No. of Patients** – Total ER visits (431) with a daily trend line.
@@ -33,7 +33,7 @@ A snapshot of ER performance for a single month.
 ### Consolidated View (Apr 2023 – Oct 2024)
 
 Shows long-term ER trends and overall hospital performance.
-**Dashboard-2 (consolidated View)** - <img width="826" height="503" alt="Dashboard-2 (Consolidated View)" src="https://github.com/user-attachments/assets/ccf41324-7243-4a80-92e4-94fc83de574e" />
+* **Dashboard-2 (consolidated View)** - <img width="826" height="503" alt="Dashboard-2 (Consolidated View)" src="https://github.com/user-attachments/assets/ccf41324-7243-4a80-92e4-94fc83de574e" />
 
 1. **No. of Patients** – 9,201 total visits with monthly trends.
 2. **Avg. Wait Time** – Average waiting time (35.3 min).
@@ -52,7 +52,7 @@ Shows long-term ER trends and overall hospital performance.
 ### Patient Details View
 
 Provides a **detailed table of individual patients** for record-keeping and case analysis.
-**Dashboard-3 (Patients Details View)** - <img width="827" height="504" alt="Dashboard-3 (Patients List)" src="https://github.com/user-attachments/assets/276101e9-75c9-4681-a65b-95c67efd1ee2" />
+* **Dashboard-3 (Patients Details View)** - <img width="827" height="504" alt="Dashboard-3 (Patients List)" src="https://github.com/user-attachments/assets/276101e9-75c9-4681-a65b-95c67efd1ee2" />
 
 * **Patient ID & Name** – Unique identifiers for patients.
 * **Gender & Age** – Demographic details.
