@@ -15,6 +15,7 @@ This dashboard has three views: **Monthly View**, **Consolidated View**, and **P
 ### Monthly View (Example: Feb 2024)
 
 A snapshot of ER performance for a single month.
+**Dashboard-1 (Montly View)** - (Dashboard-1 (Monthly View).png)
 
 1. **No. of Patients** – Total ER visits (431) with a daily trend line.
 2. **Avg. Wait Time** – Average patient waiting time (36.7 min) with daily changes.
