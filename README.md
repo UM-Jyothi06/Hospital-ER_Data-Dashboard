@@ -1,7 +1,7 @@
 # Hospital-ER_Data-Dashboard
 This project is a Power BI dashboard that shows important insights about Emergency Room (ER) data. It helps hospitals and healthcare staff understand patient flow, waiting times, and overall performance.
 
---> *Features*
+--> **Features**
 - Interactive charts and visuals.
 - Track patient waiting and treatment times.
 - Monitor admission and discharge trends.
@@ -10,4 +10,4 @@ This project is a Power BI dashboard that shows important insights about Emergen
 
 ## Visuals Explained
 
-This dashboard has two views: *Monthly View, and **Patient Details View*. Each view provides different levels of insights into ER performance and patient data.
+This dashboard has two views: **Monthly View**, and **Patient Details View**. Each view provides different levels of insights into ER performance and patient data.
